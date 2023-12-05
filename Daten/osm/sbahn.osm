@@ -1,0 +1,2495 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><osm version="0.6" generator="Overpass API 0.7.61.4 df4c946a">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2023-07-27T12:39:56Z" areas="2023-07-27T10:05:15Z"/>
+
+  <way id="9202376">
+    <nd ref="3425697390"/>
+    <nd ref="68628696"/>
+    <nd ref="4034211289"/>
+    <nd ref="322696448"/>
+    <nd ref="1617791188"/>
+    <nd ref="239443598"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="2"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="9621928">
+    <nd ref="239443607"/>
+    <nd ref="239443611"/>
+    <nd ref="239443613"/>
+    <nd ref="6708823198"/>
+    <nd ref="4034420101"/>
+    <nd ref="239444170"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:track_ref" v="15"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="9887645">
+    <nd ref="3707303136"/>
+    <nd ref="2916079459"/>
+    <nd ref="2916079451"/>
+    <nd ref="3463260003"/>
+    <nd ref="3463260002"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="19828003">
+    <nd ref="207028388"/>
+    <nd ref="207028386"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="22270806">
+    <nd ref="239444170"/>
+    <nd ref="6708823197"/>
+    <nd ref="239444171"/>
+    <nd ref="239444173"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:track_ref" v="16"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="22270832">
+    <nd ref="239444453"/>
+    <nd ref="1241952209"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="22270833">
+    <nd ref="3425697392"/>
+    <nd ref="3425698793"/>
+    <nd ref="9002056361"/>
+    <nd ref="75087941"/>
+    <nd ref="75087940"/>
+    <nd ref="75087939"/>
+    <nd ref="239443598"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="1"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="22983044">
+    <nd ref="247762759"/>
+    <nd ref="3680850699"/>
+    <nd ref="2074837824"/>
+    <nd ref="751981290"/>
+    <nd ref="751981316"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="22983045">
+    <nd ref="247762760"/>
+    <nd ref="247762759"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="23723325">
+    <nd ref="239444458"/>
+    <nd ref="6708823195"/>
+    <nd ref="239444453"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:track_ref" v="18"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="24291289">
+    <nd ref="293573790"/>
+    <nd ref="1241996194"/>
+    <nd ref="1891882841"/>
+    <nd ref="1891882844"/>
+    <nd ref="4035552627"/>
+    <nd ref="263026981"/>
+    <nd ref="1242013063"/>
+    <nd ref="1242013108"/>
+    <nd ref="263026982"/>
+    <nd ref="1242013138"/>
+    <nd ref="263027055"/>
+    <nd ref="1242013079"/>
+    <nd ref="1242013124"/>
+    <nd ref="263027056"/>
+    <nd ref="1242013080"/>
+    <nd ref="263027072"/>
+    <nd ref="1242013137"/>
+    <nd ref="263027074"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="24291290">
+    <nd ref="263027075"/>
+    <nd ref="4086114388"/>
+    <nd ref="263027076"/>
+    <nd ref="263027133"/>
+    <nd ref="4035668693"/>
+    <nd ref="4035552634"/>
+    <nd ref="1242013081"/>
+    <nd ref="1242013028"/>
+    <nd ref="263027151"/>
+    <nd ref="1242020221"/>
+    <nd ref="1242020222"/>
+    <nd ref="263027520"/>
+    <nd ref="1242020185"/>
+    <nd ref="1242020226"/>
+    <nd ref="1242020247"/>
+    <nd ref="1242020248"/>
+    <nd ref="1242020182"/>
+    <nd ref="1242020181"/>
+    <nd ref="1242020195"/>
+    <nd ref="263027523"/>
+    <nd ref="292550899"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="24971177">
+    <nd ref="271347999"/>
+    <nd ref="4035668715"/>
+    <nd ref="263028151"/>
+    <nd ref="4035668719"/>
+    <nd ref="1242061190"/>
+    <nd ref="263028152"/>
+    <nd ref="4035668721"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="26621099">
+    <nd ref="291991349"/>
+    <nd ref="1242061257"/>
+    <nd ref="1242061264"/>
+    <nd ref="1242061197"/>
+    <nd ref="3557753126"/>
+    <nd ref="1242061241"/>
+    <nd ref="291991364"/>
+    <nd ref="1242061189"/>
+    <nd ref="1242061175"/>
+    <nd ref="1242061214"/>
+    <tag k="cutting" v="no"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="embankment" v="no"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lit" v="yes"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="rack" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:track_ref" v="39"/>
+    <tag k="service" v="yard"/>
+    <tag k="source" v="Bing;extrapolation"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="26674827">
+    <nd ref="292550899"/>
+    <nd ref="292550898"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="27021878">
+    <nd ref="296205533"/>
+    <nd ref="3463107187"/>
+    <nd ref="3463107186"/>
+    <nd ref="294299750"/>
+    <nd ref="54659492"/>
+    <nd ref="54659489"/>
+    <nd ref="1356496524"/>
+    <nd ref="54659488"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="operator:wikidata" v="Q99869216"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="27021879">
+    <nd ref="54659494"/>
+    <nd ref="296205533"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="27022022">
+    <nd ref="296208131"/>
+    <nd ref="296208028"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="42754417">
+    <nd ref="160739224"/>
+    <nd ref="7596723024"/>
+    <nd ref="3707303140"/>
+    <nd ref="7596723025"/>
+    <nd ref="7596723026"/>
+    <nd ref="7596723028"/>
+    <nd ref="3463199262"/>
+    <nd ref="80134772"/>
+    <nd ref="3259586912"/>
+    <nd ref="3259586911"/>
+    <nd ref="3259586910"/>
+    <nd ref="3259586907"/>
+    <nd ref="3680804435"/>
+    <nd ref="3259586906"/>
+    <nd ref="3259586905"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="42754418">
+    <nd ref="296208131"/>
+    <nd ref="3463140181"/>
+    <nd ref="540239451"/>
+    <nd ref="3680804430"/>
+    <nd ref="3680804431"/>
+    <nd ref="3680804432"/>
+    <nd ref="3680804433"/>
+    <nd ref="80134775"/>
+    <nd ref="80134774"/>
+    <nd ref="160738915"/>
+    <nd ref="3680804436"/>
+    <nd ref="3259586913"/>
+    <nd ref="80136798"/>
+    <nd ref="80136797"/>
+    <nd ref="4087648865"/>
+    <nd ref="3707303141"/>
+    <nd ref="3463199264"/>
+    <nd ref="3463199265"/>
+    <nd ref="80136792"/>
+    <nd ref="2917540879"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="60413765">
+    <nd ref="296208028"/>
+    <nd ref="2074862288"/>
+    <nd ref="2074862286"/>
+    <nd ref="2074859411"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="60413766">
+    <nd ref="751981316"/>
+    <nd ref="751981324"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="60413767">
+    <nd ref="751981324"/>
+    <nd ref="3463107185"/>
+    <nd ref="7575175389"/>
+    <nd ref="3707303134"/>
+    <nd ref="3463107180"/>
+    <nd ref="751981378"/>
+    <nd ref="1356496866"/>
+    <nd ref="751981379"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="operator:wikidata" v="Q99869216"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108217804">
+    <nd ref="68628701"/>
+    <nd ref="68628702"/>
+    <nd ref="68628703"/>
+    <nd ref="68628704"/>
+    <nd ref="68628705"/>
+    <nd ref="68628706"/>
+    <nd ref="68628707"/>
+    <nd ref="68628709"/>
+    <nd ref="68628712"/>
+    <nd ref="84864387"/>
+    <nd ref="68628714"/>
+    <nd ref="3425698809"/>
+    <nd ref="1241952070"/>
+    <nd ref="68628715"/>
+    <nd ref="68628717"/>
+    <nd ref="68628718"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108217813">
+    <nd ref="1241952209"/>
+    <nd ref="6708823192"/>
+    <nd ref="1241952138"/>
+    <nd ref="1241952251"/>
+    <nd ref="4034420097"/>
+    <nd ref="1617791190"/>
+    <nd ref="1241952049"/>
+    <nd ref="1241952186"/>
+    <nd ref="1241952244"/>
+    <nd ref="1241951968"/>
+    <nd ref="1241952118"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="108217818">
+    <nd ref="1241952142"/>
+    <nd ref="1241952136"/>
+    <nd ref="1241952260"/>
+    <nd ref="1241952051"/>
+    <nd ref="1241952190"/>
+    <nd ref="1241952189"/>
+    <nd ref="1241951971"/>
+    <nd ref="1241952120"/>
+    <nd ref="1241952219"/>
+    <nd ref="1241952003"/>
+    <nd ref="1241952148"/>
+    <nd ref="1241952263"/>
+    <nd ref="1241952065"/>
+    <nd ref="1241952055"/>
+    <nd ref="6708823199"/>
+    <nd ref="1241952196"/>
+    <nd ref="1241951974"/>
+    <nd ref="1241952122"/>
+    <nd ref="1241952246"/>
+    <nd ref="1241952113"/>
+    <nd ref="1241952031"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="operator:wikidata" v="Q99869216"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108217820">
+    <nd ref="1241952160"/>
+    <nd ref="6708823196"/>
+    <nd ref="1241952266"/>
+    <nd ref="1241952047"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:track_ref" v="17"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="108217823">
+    <nd ref="75089376"/>
+    <nd ref="4034420099"/>
+    <nd ref="1617791236"/>
+    <nd ref="1241952090"/>
+    <nd ref="1617791195"/>
+    <nd ref="1617791194"/>
+    <nd ref="75087939"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lines" v="S1"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+  </way>
+  <way id="108217825">
+    <nd ref="68628718"/>
+    <nd ref="1241952031"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108221432">
+    <nd ref="1241996287"/>
+    <nd ref="1241995970"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108221441">
+    <nd ref="1242013130"/>
+    <nd ref="1242013040"/>
+    <nd ref="1242013102"/>
+    <nd ref="1242013100"/>
+    <nd ref="1242013061"/>
+    <nd ref="1242013096"/>
+    <nd ref="1242013056"/>
+    <nd ref="1242013047"/>
+    <nd ref="1242013117"/>
+    <nd ref="1242013082"/>
+    <nd ref="1242013041"/>
+    <nd ref="1242013039"/>
+    <nd ref="1242013101"/>
+    <nd ref="1241996154"/>
+    <nd ref="1241996073"/>
+    <nd ref="1241996394"/>
+    <nd ref="1241996287"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108221449">
+    <nd ref="1241995976"/>
+    <nd ref="1241996086"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="operator" v="DB Netz AG"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:bidirectional" v="regular"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:preferred_direction" v="forward"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108221462">
+    <nd ref="1241995970"/>
+    <nd ref="4035668692"/>
+    <nd ref="4035668691"/>
+    <nd ref="1241995966"/>
+    <nd ref="1241996076"/>
+    <nd ref="1241996328"/>
+    <nd ref="1241995996"/>
+    <nd ref="1241996171"/>
+    <nd ref="1241996291"/>
+    <nd ref="1241996037"/>
+    <nd ref="1241996129"/>
+    <nd ref="4035668690"/>
+    <nd ref="1241996024"/>
+    <nd ref="1241996105"/>
+    <nd ref="1241996145"/>
+    <nd ref="1241996350"/>
+    <nd ref="1241996405"/>
+    <nd ref="1241996003"/>
+    <nd ref="1241996121"/>
+    <nd ref="1241996329"/>
+    <nd ref="1241996108"/>
+    <nd ref="1241996078"/>
+    <nd ref="1241996295"/>
+    <nd ref="4035668689"/>
+    <nd ref="1241995976"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108222750">
+    <nd ref="1242020202"/>
+    <nd ref="1242020167"/>
+    <nd ref="1242020235"/>
+    <nd ref="1242020200"/>
+    <nd ref="4035668699"/>
+    <nd ref="1242020154"/>
+    <nd ref="1242020155"/>
+    <nd ref="1242020223"/>
+    <nd ref="4035668698"/>
+    <nd ref="1242020204"/>
+    <nd ref="4035668697"/>
+    <nd ref="1242020157"/>
+    <nd ref="1242020251"/>
+    <nd ref="4035668696"/>
+    <nd ref="1242020240"/>
+    <nd ref="4035668695"/>
+    <nd ref="4035668694"/>
+    <nd ref="1242020199"/>
+    <nd ref="1242020153"/>
+    <nd ref="1242013049"/>
+    <nd ref="1242013120"/>
+    <nd ref="1242013114"/>
+    <nd ref="1242013075"/>
+    <nd ref="1242013091"/>
+    <nd ref="1242013044"/>
+    <nd ref="1242013119"/>
+    <nd ref="1242013077"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:track_ref" v="1"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108222751">
+    <nd ref="1242013077"/>
+    <nd ref="1242013130"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108224601">
+    <nd ref="1242020246"/>
+    <nd ref="1242020206"/>
+    <nd ref="1242020160"/>
+    <nd ref="1242020229"/>
+    <nd ref="3435390112"/>
+    <nd ref="1242020188"/>
+    <nd ref="1242020143"/>
+    <nd ref="3377293672"/>
+    <nd ref="1242020212"/>
+    <nd ref="1242020168"/>
+    <nd ref="3493274001"/>
+    <nd ref="1242020236"/>
+    <nd ref="1242020150"/>
+    <nd ref="1242020218"/>
+    <nd ref="1242020231"/>
+    <nd ref="4035668703"/>
+    <nd ref="1242020220"/>
+    <nd ref="1242020178"/>
+    <nd ref="1242020244"/>
+    <nd ref="4035668702"/>
+    <nd ref="4035668701"/>
+    <nd ref="1242020187"/>
+    <nd ref="1242020175"/>
+    <nd ref="1242020242"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108224602">
+    <nd ref="1242020242"/>
+    <nd ref="1242020202"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108226985">
+    <nd ref="1242061264"/>
+    <nd ref="3495054966"/>
+    <nd ref="1242061199"/>
+    <nd ref="1242061235"/>
+    <tag k="cutting" v="no"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="embankment" v="no"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lit" v="yes"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="rack" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:track_ref" v="38"/>
+    <tag k="service" v="yard"/>
+    <tag k="source" v="Bing;extrapolation"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108226989">
+    <nd ref="1242061257"/>
+    <nd ref="3495054965"/>
+    <nd ref="1242061181"/>
+    <nd ref="1242061225"/>
+    <tag k="cutting" v="no"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="embankment" v="no"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lit" v="yes"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="rack" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:track_ref" v="37"/>
+    <tag k="service" v="yard"/>
+    <tag k="source" v="Bing;extrapolation"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="108226990">
+    <nd ref="1242061258"/>
+    <nd ref="3435390115"/>
+    <nd ref="1892889975"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="source" v="Bing;extrapolation"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="110313997">
+    <nd ref="291991345"/>
+    <nd ref="3495054964"/>
+    <nd ref="291991349"/>
+    <nd ref="1242061170"/>
+    <nd ref="3495054963"/>
+    <nd ref="291991379"/>
+    <nd ref="291991380"/>
+    <tag k="cutting" v="no"/>
+    <tag k="electrified" v="yes"/>
+    <tag k="embankment" v="no"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lit" v="yes"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="rack" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:track_ref" v="36"/>
+    <tag k="service" v="yard"/>
+    <tag k="source" v="Bing;extrapolation"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="110313999">
+    <nd ref="1242061223"/>
+    <nd ref="3999126248"/>
+    <nd ref="3495054961"/>
+    <nd ref="1242061243"/>
+    <nd ref="1242061204"/>
+    <nd ref="3999126244"/>
+    <nd ref="3435390116"/>
+    <nd ref="1242061258"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="source" v="Bing;extrapolation"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="110314008">
+    <nd ref="1892889975"/>
+    <nd ref="3435390114"/>
+    <nd ref="263028256"/>
+    <nd ref="3495054957"/>
+    <nd ref="3999126242"/>
+    <nd ref="263028257"/>
+    <nd ref="3999126243"/>
+    <nd ref="3495054958"/>
+    <nd ref="1260099179"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:track_ref" v="32"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="121380692">
+    <nd ref="1241952031"/>
+    <nd ref="1241951987"/>
+    <nd ref="9002056359"/>
+    <nd ref="68628719"/>
+    <nd ref="1617791262"/>
+    <nd ref="68628720"/>
+    <nd ref="68628722"/>
+    <nd ref="68628723"/>
+    <nd ref="6708823200"/>
+    <nd ref="68628725"/>
+    <nd ref="68628726"/>
+    <nd ref="68628727"/>
+    <nd ref="1241952281"/>
+    <nd ref="68628729"/>
+    <nd ref="68628730"/>
+    <nd ref="68628733"/>
+    <nd ref="68628737"/>
+    <nd ref="68628738"/>
+    <nd ref="68628740"/>
+    <nd ref="1241952161"/>
+    <nd ref="1241951962"/>
+    <nd ref="68628741"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="operator:wikidata" v="Q99869216"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="121380693">
+    <nd ref="239443598"/>
+    <nd ref="3425698804"/>
+    <nd ref="68628698"/>
+    <nd ref="75089376"/>
+    <nd ref="68628699"/>
+    <nd ref="1241952276"/>
+    <nd ref="68628700"/>
+    <nd ref="1725346332"/>
+    <nd ref="206265303"/>
+    <nd ref="1601327460"/>
+    <nd ref="9002056360"/>
+    <nd ref="84864385"/>
+    <nd ref="3425698808"/>
+    <nd ref="68628701"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="153148983">
+    <nd ref="207028386"/>
+    <nd ref="7596723031"/>
+    <nd ref="7596723032"/>
+    <nd ref="207028382"/>
+    <nd ref="7596723033"/>
+    <nd ref="7596723034"/>
+    <nd ref="7596723035"/>
+    <nd ref="3463140176"/>
+    <nd ref="3680850709"/>
+    <nd ref="540239456"/>
+    <nd ref="2074859413"/>
+    <nd ref="540239455"/>
+    <nd ref="3680850704"/>
+    <nd ref="2074837941"/>
+    <nd ref="2075306145"/>
+    <nd ref="2075306080"/>
+    <nd ref="2074837938"/>
+    <nd ref="2074837926"/>
+    <nd ref="247762760"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="154121761">
+    <nd ref="378739910"/>
+    <nd ref="378739899"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="operator" v="DB Netz AG"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:bidirectional" v="regular"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:preferred_direction" v="forward"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="154121762">
+    <nd ref="378739899"/>
+    <nd ref="5110670807"/>
+    <nd ref="263026306"/>
+    <nd ref="1241996373"/>
+    <nd ref="1241996155"/>
+    <nd ref="263026310"/>
+    <nd ref="1241996094"/>
+    <nd ref="263026311"/>
+    <nd ref="1241996012"/>
+    <nd ref="263026312"/>
+    <nd ref="1241996041"/>
+    <nd ref="263026313"/>
+    <nd ref="1241996342"/>
+    <nd ref="263026976"/>
+    <nd ref="1241995973"/>
+    <nd ref="1241996099"/>
+    <nd ref="263026977"/>
+    <nd ref="1241996117"/>
+    <nd ref="1241996035"/>
+    <nd ref="263026978"/>
+    <nd ref="293573788"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="178427189">
+    <nd ref="271347998"/>
+    <nd ref="271347999"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="178427190">
+    <nd ref="272750236"/>
+    <nd ref="310988024"/>
+    <nd ref="4035668710"/>
+    <nd ref="263028074"/>
+    <nd ref="4035668711"/>
+    <nd ref="4035668713"/>
+    <nd ref="1892861693"/>
+    <nd ref="263028076"/>
+    <nd ref="3493274003"/>
+    <nd ref="271347998"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="178831304">
+    <nd ref="263027074"/>
+    <nd ref="263027075"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="178832012">
+    <nd ref="293573788"/>
+    <nd ref="293573790"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="178932618">
+    <nd ref="292550898"/>
+    <nd ref="1242020142"/>
+    <nd ref="263027524"/>
+    <nd ref="4035552644"/>
+    <nd ref="1242020152"/>
+    <nd ref="263027525"/>
+    <nd ref="1242020198"/>
+    <nd ref="332407966"/>
+    <nd ref="1242020196"/>
+    <nd ref="263027527"/>
+    <nd ref="332407959"/>
+    <nd ref="263027779"/>
+    <nd ref="4086137459"/>
+    <nd ref="3377293671"/>
+    <nd ref="4035552650"/>
+    <nd ref="1242020180"/>
+    <nd ref="3435390111"/>
+    <nd ref="311474485"/>
+    <nd ref="263027781"/>
+    <nd ref="4035668704"/>
+    <nd ref="1242020246"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="178932619">
+    <nd ref="263027992"/>
+    <nd ref="1892861668"/>
+    <nd ref="4035668708"/>
+    <nd ref="3493274002"/>
+    <nd ref="272750236"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="178935801">
+    <nd ref="263028253"/>
+    <nd ref="4035668724"/>
+    <nd ref="1892889949"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="maxspeed:forward" v="60"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="178935803">
+    <nd ref="3464994870"/>
+    <nd ref="3495054956"/>
+    <nd ref="1892889971"/>
+    <nd ref="3435390113"/>
+    <nd ref="1892889975"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="maxspeed:forward" v="60"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="197206149">
+    <nd ref="2074859455"/>
+    <nd ref="2074859408"/>
+    <nd ref="2074859441"/>
+    <nd ref="54659494"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="197206150">
+    <nd ref="2074859444"/>
+    <nd ref="3463140177"/>
+    <nd ref="2074859447"/>
+    <nd ref="2074859415"/>
+    <nd ref="3680850710"/>
+    <nd ref="2074859412"/>
+    <nd ref="2074859419"/>
+    <nd ref="3680850708"/>
+    <nd ref="3680850707"/>
+    <nd ref="3680850706"/>
+    <nd ref="2074859488"/>
+    <nd ref="3680850705"/>
+    <nd ref="2074859459"/>
+    <nd ref="3680850703"/>
+    <nd ref="2074859438"/>
+    <nd ref="2075306346"/>
+    <nd ref="2075306319"/>
+    <nd ref="2074859431"/>
+    <nd ref="2074859402"/>
+    <nd ref="2074859410"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="197206154">
+    <nd ref="2074859410"/>
+    <nd ref="2074859455"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="197206329">
+    <nd ref="2074859411"/>
+    <nd ref="3463140178"/>
+    <nd ref="2074859444"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="197254692">
+    <nd ref="2075306145"/>
+    <nd ref="2075306346"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lines" v="S3"/>
+    <tag k="name" v="S3"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="service" v="crossover"/>
+  </way>
+  <way id="197254726">
+    <nd ref="2075306319"/>
+    <nd ref="2075306080"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lines" v="S3"/>
+    <tag k="name" v="S3"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="service" v="crossover"/>
+  </way>
+  <way id="203301592">
+    <nd ref="1242020246"/>
+    <nd ref="263027988"/>
+    <nd ref="263027989"/>
+    <nd ref="1892861659"/>
+    <nd ref="1242035510"/>
+    <nd ref="1242061209"/>
+    <nd ref="263027991"/>
+    <nd ref="263027992"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="288064200">
+    <nd ref="2916049774"/>
+    <nd ref="2916049778"/>
+    <nd ref="3680749756"/>
+    <nd ref="3463259993"/>
+    <nd ref="3680780928"/>
+    <nd ref="2917540879"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="288064202">
+    <nd ref="3463260004"/>
+    <nd ref="2917540872"/>
+    <nd ref="3680749762"/>
+    <nd ref="3680749761"/>
+    <nd ref="2916049774"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="288074281">
+    <nd ref="3463260004"/>
+    <nd ref="3463260005"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="319536614">
+    <nd ref="3259586905"/>
+    <nd ref="3259586904"/>
+    <tag k="bridge" v="yes"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="319536615">
+    <nd ref="3259586904"/>
+    <nd ref="540239449"/>
+    <nd ref="3463140180"/>
+    <nd ref="2074862309"/>
+    <nd ref="207028388"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="level" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="335466419">
+    <nd ref="239444170"/>
+    <nd ref="4034420100"/>
+    <nd ref="6708823194"/>
+    <nd ref="3425698805"/>
+    <nd ref="239443598"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="335466420">
+    <nd ref="239444453"/>
+    <nd ref="1241952160"/>
+    <nd ref="4034420098"/>
+    <nd ref="6708823194"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="335466421">
+    <nd ref="1241952209"/>
+    <nd ref="4034211292"/>
+    <nd ref="6708823193"/>
+    <nd ref="1241951988"/>
+    <nd ref="4034211291"/>
+    <nd ref="239444998"/>
+    <nd ref="1617791200"/>
+    <nd ref="239446441"/>
+    <nd ref="4034211290"/>
+    <nd ref="239444999"/>
+    <nd ref="1241952174"/>
+    <nd ref="239445000"/>
+    <nd ref="239445009"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:track_ref" v="19"/>
+    <tag k="service" v="yard"/>
+  </way>
+  <way id="363968533">
+    <nd ref="3463260002"/>
+    <nd ref="80134765"/>
+    <nd ref="3680749758"/>
+    <nd ref="3680749757"/>
+    <nd ref="3463259997"/>
+    <nd ref="3463259996"/>
+    <nd ref="3680780931"/>
+    <nd ref="3463259792"/>
+    <nd ref="3680780930"/>
+    <nd ref="3680780929"/>
+    <nd ref="160739224"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="363968534">
+    <nd ref="3680749758"/>
+    <nd ref="3680749762"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="service" v="crossover"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="363968535">
+    <nd ref="3680749757"/>
+    <nd ref="3680749756"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="service" v="crossover"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="363968536">
+    <nd ref="3680749761"/>
+    <nd ref="3680749760"/>
+    <nd ref="3680749759"/>
+    <nd ref="2917540871"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg GmbH"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="101"/>
+    <tag k="service" v="siding"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="363968537">
+    <nd ref="3463260005"/>
+    <nd ref="3463260006"/>
+    <nd ref="2916145910"/>
+    <nd ref="10580155031"/>
+    <nd ref="2916145907"/>
+    <nd ref="3707303137"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="401110158">
+    <nd ref="1892889949"/>
+    <nd ref="4035668725"/>
+    <nd ref="1892889966"/>
+    <nd ref="3464994870"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="maxspeed" v="100"/>
+    <tag k="maxspeed:forward" v="60"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="406273538">
+    <nd ref="4035668721"/>
+    <nd ref="1242061158"/>
+    <nd ref="263028169"/>
+    <nd ref="263028253"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="maxspeed:backward" v="100"/>
+    <tag k="maxspeed:forward" v="60"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="2"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="642004277">
+    <nd ref="3707303137"/>
+    <nd ref="2916145909"/>
+    <nd ref="10580155032"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="layer" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="642004278">
+    <nd ref="10580155033"/>
+    <nd ref="80134762"/>
+    <nd ref="3707303136"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="layer" v="1"/>
+    <tag k="lines" v="S3"/>
+    <tag k="maxspeed" v="30"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1225"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="642004547">
+    <nd ref="291991345"/>
+    <nd ref="1242061193"/>
+    <nd ref="3435390119"/>
+    <nd ref="3435390120"/>
+    <nd ref="1242061259"/>
+    <nd ref="3999126249"/>
+    <nd ref="1242061223"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="highspeed" v="no"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:ballastless" v="no"/>
+    <tag k="railway:etcs" v="no"/>
+    <tag k="railway:gnt" v="no"/>
+    <tag k="railway:lzb" v="no"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:radio" v="gsm-r"/>
+    <tag k="railway:tilting" v="no"/>
+    <tag k="railway:traffic_mode" v="passenger"/>
+    <tag k="ref" v="1244"/>
+    <tag k="source" v="Bing;extrapolation"/>
+    <tag k="usage" v="main"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="642010989">
+    <nd ref="75087945"/>
+    <nd ref="3425697387"/>
+    <nd ref="340397018"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="maxspeed:backward" v="30"/>
+    <tag k="maxspeed:forward" v="70"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="1"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="642010990">
+    <nd ref="340397016"/>
+    <nd ref="3425697386"/>
+    <nd ref="68628693"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="maxspeed:backward" v="30"/>
+    <tag k="maxspeed:forward" v="50"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="2"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="972648457">
+    <nd ref="7593710178"/>
+    <nd ref="340397016"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="2"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="972648458">
+    <nd ref="7593710177"/>
+    <nd ref="75087945"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="1"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="972648459">
+    <nd ref="68628693"/>
+    <nd ref="68628695"/>
+    <nd ref="3425697390"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="maxspeed:backward" v="30"/>
+    <tag k="maxspeed:forward" v="50"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="2"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <way id="972648460">
+    <nd ref="340397018"/>
+    <nd ref="75087943"/>
+    <nd ref="3425697392"/>
+    <tag k="commuting" v="yes"/>
+    <tag k="electrified" v="rail"/>
+    <tag k="frequency" v="0"/>
+    <tag k="gauge" v="1435"/>
+    <tag k="level" v="1"/>
+    <tag k="maxspeed:backward" v="30"/>
+    <tag k="maxspeed:forward" v="70"/>
+    <tag k="network" v="HVV"/>
+    <tag k="operator" v="S-Bahn Hamburg"/>
+    <tag k="railway" v="light_rail"/>
+    <tag k="railway:pzb" v="yes"/>
+    <tag k="railway:track_ref" v="1"/>
+    <tag k="voltage" v="1200"/>
+  </way>
+  <node id="68628693" lat="53.5821274" lon="9.7054845"/>
+  <node id="75087945" lat="53.5818511" lon="9.7048508"/>
+  <node id="239445009" lat="53.5822879" lon="9.7058256"/>
+  <node id="340397016" lat="53.5817771" lon="9.7050017"/>
+  <node id="340397018" lat="53.5821821" lon="9.7053431"/>
+  <node id="1241952118" lat="53.5822605" lon="9.7058738"/>
+  <node id="3425697386" lat="53.5817929" lon="9.7050237"/>
+  <node id="3425697387" lat="53.5818627" lon="9.7048681"/>
+  <node id="7593710177" lat="53.5818300" lon="9.7048193"/>
+  <node id="7593710178" lat="53.5817426" lon="9.7049521"/>
+  <node id="68628695" lat="53.5827551" lon="9.7063372"/>
+  <node id="68628696" lat="53.5829014" lon="9.7065395"/>
+  <node id="68628698" lat="53.5836612" lon="9.7080742"/>
+  <node id="68628699" lat="53.5839297" lon="9.7089119"/>
+  <node id="68628700" lat="53.5842639" lon="9.7106129"/>
+  <node id="75087939" lat="53.5832874" lon="9.7071045"/>
+  <node id="75087940" lat="53.5832227" lon="9.7069705"/>
+  <node id="75087941" lat="53.5830883" lon="9.7067208"/>
+  <node id="75087943" lat="53.5827957" lon="9.7062579"/>
+  <node id="75089376" lat="53.5837893" lon="9.7084082"/>
+  <node id="206265303" lat="53.5845015" lon="9.7119263"/>
+  <node id="239443598" lat="53.5835187" lon="9.7077228"/>
+  <node id="239443607" lat="53.5843384" lon="9.7113826"/>
+  <node id="239443611" lat="53.5839557" lon="9.7092514"/>
+  <node id="239443613" lat="53.5839154" lon="9.7090553"/>
+  <node id="239444170" lat="53.5838061" lon="9.7086209"/>
+  <node id="239444171" lat="53.5838822" lon="9.7090760"/>
+  <node id="239444173" lat="53.5842990" lon="9.7114016"/>
+  <node id="239444453" lat="53.5838052" lon="9.7091144"/>
+  <node id="239444458" lat="53.5842236" lon="9.7114377"/>
+  <node id="239444998" lat="53.5835698" lon="9.7080685"/>
+  <node id="239444999" lat="53.5832075" lon="9.7071718"/>
+  <node id="239445000" lat="53.5828844" lon="9.7066287"/>
+  <node id="239446441" lat="53.5834310" lon="9.7076815"/>
+  <node id="322696448" lat="53.5832130" lon="9.7070693"/>
+  <node id="1241951968" lat="53.5828745" lon="9.7067016"/>
+  <node id="1241951988" lat="53.5836754" lon="9.7084476"/>
+  <node id="1241952047" lat="53.5842597" lon="9.7114128"/>
+  <node id="1241952049" lat="53.5832907" lon="9.7074655"/>
+  <node id="1241952090" lat="53.5835925" lon="9.7078195"/>
+  <node id="1241952138" lat="53.5836283" lon="9.7083827"/>
+  <node id="1241952160" lat="53.5837681" lon="9.7086593"/>
+  <node id="1241952174" lat="53.5830645" lon="9.7069064"/>
+  <node id="1241952186" lat="53.5831739" lon="9.7072175"/>
+  <node id="1241952209" lat="53.5837242" lon="9.7087050"/>
+  <node id="1241952244" lat="53.5830350" lon="9.7069547"/>
+  <node id="1241952251" lat="53.5835007" lon="9.7079989"/>
+  <node id="1241952266" lat="53.5838632" lon="9.7092128"/>
+  <node id="1241952276" lat="53.5840307" lon="9.7093779"/>
+  <node id="1601327460" lat="53.5845191" lon="9.7120162"/>
+  <node id="1617791188" lat="53.5833486" lon="9.7073425"/>
+  <node id="1617791190" lat="53.5834003" lon="9.7077329"/>
+  <node id="1617791194" lat="53.5834023" lon="9.7073446"/>
+  <node id="1617791195" lat="53.5834680" lon="9.7074980"/>
+  <node id="1617791200" lat="53.5835024" lon="9.7078672"/>
+  <node id="1617791236" lat="53.5836770" lon="9.7080584"/>
+  <node id="1725346332" lat="53.5844855" lon="9.7118380"/>
+  <node id="3425697390" lat="53.5828487" lon="9.7064630"/>
+  <node id="3425697392" lat="53.5828931" lon="9.7064060"/>
+  <node id="3425698793" lat="53.5829020" lon="9.7064183"/>
+  <node id="3425698804" lat="53.5835276" lon="9.7077443"/>
+  <node id="3425698805" lat="53.5836303" lon="9.7080582"/>
+  <node id="4034211289" lat="53.5830711" lon="9.7068093"/>
+  <node id="4034211290" lat="53.5833235" lon="9.7074235"/>
+  <node id="4034211291" lat="53.5836244" lon="9.7082550"/>
+  <node id="4034211292" lat="53.5837064" lon="9.7086010"/>
+  <node id="4034420097" lat="53.5834533" lon="9.7078647"/>
+  <node id="4034420098" lat="53.5837248" lon="9.7084401"/>
+  <node id="4034420099" lat="53.5837360" lon="9.7082335"/>
+  <node id="4034420100" lat="53.5837543" lon="9.7084334"/>
+  <node id="4034420101" lat="53.5838641" lon="9.7088317"/>
+  <node id="6708823192" lat="53.5836681" lon="9.7085164"/>
+  <node id="6708823193" lat="53.5836859" lon="9.7084995"/>
+  <node id="6708823194" lat="53.5836870" lon="9.7082293"/>
+  <node id="6708823195" lat="53.5838144" lon="9.7091654"/>
+  <node id="6708823196" lat="53.5838252" lon="9.7089916"/>
+  <node id="6708823197" lat="53.5838643" lon="9.7089692"/>
+  <node id="6708823198" lat="53.5838723" lon="9.7088673"/>
+  <node id="9002056361" lat="53.5829400" lon="9.7064766"/>
+  <node id="68628701" lat="53.5849852" lon="9.7145061"/>
+  <node id="68628702" lat="53.5852808" lon="9.7160828"/>
+  <node id="68628703" lat="53.5853816" lon="9.7168785"/>
+  <node id="68628704" lat="53.5854097" lon="9.7173174"/>
+  <node id="68628705" lat="53.5854204" lon="9.7176574"/>
+  <node id="68628706" lat="53.5854150" lon="9.7178979"/>
+  <node id="68628707" lat="53.5853765" lon="9.7183642"/>
+  <node id="68628709" lat="53.5853115" lon="9.7188078"/>
+  <node id="84864385" lat="53.5847663" lon="9.7133590"/>
+  <node id="3425698808" lat="53.5847673" lon="9.7133640"/>
+  <node id="9002056360" lat="53.5846026" lon="9.7124700"/>
+  <node id="68628712" lat="53.5851371" lon="9.7198537"/>
+  <node id="68628714" lat="53.5849973" lon="9.7208388"/>
+  <node id="68628715" lat="53.5849715" lon="9.7215873"/>
+  <node id="68628717" lat="53.5850012" lon="9.7222227"/>
+  <node id="68628718" lat="53.5850529" lon="9.7229473"/>
+  <node id="84864387" lat="53.5850634" lon="9.7202630"/>
+  <node id="1241951987" lat="53.5851445" lon="9.7246186"/>
+  <node id="1241952031" lat="53.5851263" lon="9.7239142"/>
+  <node id="1241952070" lat="53.5849866" lon="9.7210248"/>
+  <node id="1241952113" lat="53.5852489" lon="9.7255381"/>
+  <node id="3425698809" lat="53.5849921" lon="9.7209287"/>
+  <node id="9002056359" lat="53.5851728" lon="9.7250015"/>
+  <node id="68628719" lat="53.5852242" lon="9.7256982"/>
+  <node id="68628720" lat="53.5852574" lon="9.7264753"/>
+  <node id="68628722" lat="53.5852371" lon="9.7270157"/>
+  <node id="68628723" lat="53.5851591" lon="9.7277375"/>
+  <node id="68628725" lat="53.5850617" lon="9.7285137"/>
+  <node id="68628726" lat="53.5849880" lon="9.7291906"/>
+  <node id="68628727" lat="53.5849576" lon="9.7297737"/>
+  <node id="68628729" lat="53.5849609" lon="9.7306057"/>
+  <node id="68628730" lat="53.5850217" lon="9.7314818"/>
+  <node id="1241951974" lat="53.5852665" lon="9.7271946"/>
+  <node id="1241952003" lat="53.5850279" lon="9.7310955"/>
+  <node id="1241952055" lat="53.5851042" lon="9.7285150"/>
+  <node id="1241952065" lat="53.5850296" lon="9.7291873"/>
+  <node id="1241952122" lat="53.5852989" lon="9.7265959"/>
+  <node id="1241952148" lat="53.5849939" lon="9.7303602"/>
+  <node id="1241952196" lat="53.5852086" lon="9.7277619"/>
+  <node id="1241952219" lat="53.5851115" lon="9.7318844"/>
+  <node id="1241952246" lat="53.5852899" lon="9.7261120"/>
+  <node id="1241952263" lat="53.5849985" lon="9.7297713"/>
+  <node id="1241952281" lat="53.5849543" lon="9.7302065"/>
+  <node id="1617791262" lat="53.5852497" lon="9.7260738"/>
+  <node id="6708823199" lat="53.5851274" lon="9.7283475"/>
+  <node id="6708823200" lat="53.5850857" lon="9.7283333"/>
+  <node id="68628733" lat="53.5851478" lon="9.7325370"/>
+  <node id="68628737" lat="53.5853760" lon="9.7345479"/>
+  <node id="1241951971" lat="53.5854184" lon="9.7345823"/>
+  <node id="1241952120" lat="53.5852657" lon="9.7332577"/>
+  <node id="68628738" lat="53.5856337" lon="9.7366731"/>
+  <node id="68628740" lat="53.5858049" lon="9.7383757"/>
+  <node id="1241952051" lat="53.5858450" lon="9.7383572"/>
+  <node id="1241952189" lat="53.5855741" lon="9.7359035"/>
+  <node id="1241952190" lat="53.5856979" lon="9.7369045"/>
+  <node id="1241952260" lat="53.5858592" lon="9.7386345"/>
+  <node id="68628741" lat="53.5858368" lon="9.7393487"/>
+  <node id="1241951962" lat="53.5858401" lon="9.7390233"/>
+  <node id="1241952136" lat="53.5858737" lon="9.7390194"/>
+  <node id="1241952142" lat="53.5858761" lon="9.7393508"/>
+  <node id="1241952161" lat="53.5858254" lon="9.7387061"/>
+  <node id="2074837938" lat="53.6224357" lon="9.8548315"/>
+  <node id="2074837941" lat="53.6238960" lon="9.8519701"/>
+  <node id="2074859431" lat="53.6224664" lon="9.8548705"/>
+  <node id="2074859438" lat="53.6239235" lon="9.8520274"/>
+  <node id="2075306080" lat="53.6226444" lon="9.8544120"/>
+  <node id="2075306145" lat="53.6234454" lon="9.8528361"/>
+  <node id="2075306319" lat="53.6229702" lon="9.8538906"/>
+  <node id="2075306346" lat="53.6231478" lon="9.8535295"/>
+  <node id="3680850703" lat="53.6243892" lon="9.8511103"/>
+  <node id="540239451" lat="53.6352503" lon="9.8298896"/>
+  <node id="3259586906" lat="53.6352185" lon="9.8298379"/>
+  <node id="3680804430" lat="53.6353243" lon="9.8297440"/>
+  <node id="3680804431" lat="53.6364862" lon="9.8274583"/>
+  <node id="3680804432" lat="53.6372532" lon="9.8259494"/>
+  <node id="80134772" lat="53.6424822" lon="9.8165221"/>
+  <node id="80136797" lat="53.6429766" lon="9.8159311"/>
+  <node id="80136798" lat="53.6425061" lon="9.8165847"/>
+  <node id="3463199262" lat="53.6429292" lon="9.8158544"/>
+  <node id="3707303140" lat="53.6439063" lon="9.8144069"/>
+  <node id="3707303141" lat="53.6439751" lon="9.8145678"/>
+  <node id="4087648865" lat="53.6435955" lon="9.8150969"/>
+  <node id="7596723024" lat="53.6443491" lon="9.8137439"/>
+  <node id="7596723025" lat="53.6438985" lon="9.8144185"/>
+  <node id="7596723026" lat="53.6434548" lon="9.8150758"/>
+  <node id="7596723028" lat="53.6430218" lon="9.8157172"/>
+  <node id="2917540879" lat="53.6465555" lon="9.8105150"/>
+  <node id="3463259792" lat="53.6501157" lon="9.8051343"/>
+  <node id="3463259993" lat="53.6501434" lon="9.8051857"/>
+  <node id="3680780928" lat="53.6465977" lon="9.8104507"/>
+  <node id="3680780929" lat="53.6468341" lon="9.8099844"/>
+  <node id="3680780930" lat="53.6474744" lon="9.8090361"/>
+  <node id="3680780931" lat="53.6504675" lon="9.8045897"/>
+  <node id="80136792" lat="53.6454993" lon="9.8121438"/>
+  <node id="160739224" lat="53.6456530" lon="9.8117918"/>
+  <node id="3463199264" lat="53.6446619" lon="9.8135247"/>
+  <node id="3463199265" lat="53.6448381" lon="9.8132446"/>
+  <node id="80134774" lat="53.6403678" lon="9.8199046"/>
+  <node id="80134775" lat="53.6394841" lon="9.8216077"/>
+  <node id="160738915" lat="53.6409156" lon="9.8189784"/>
+  <node id="3259586907" lat="53.6394511" lon="9.8215660"/>
+  <node id="3259586910" lat="53.6403345" lon="9.8198615"/>
+  <node id="3259586911" lat="53.6408821" lon="9.8189178"/>
+  <node id="3259586912" lat="53.6418206" lon="9.8174858"/>
+  <node id="3259586913" lat="53.6418460" lon="9.8175444"/>
+  <node id="3680804433" lat="53.6384137" lon="9.8236957"/>
+  <node id="3680804435" lat="53.6392152" lon="9.8220166"/>
+  <node id="3680804436" lat="53.6411134" lon="9.8186504"/>
+  <node id="207028382" lat="53.6303641" lon="9.8390359"/>
+  <node id="207028386" lat="53.6310925" lon="9.8376644"/>
+  <node id="207028388" lat="53.6313247" lon="9.8372418"/>
+  <node id="2074859411" lat="53.6313976" lon="9.8373188"/>
+  <node id="2074859412" lat="53.6285294" lon="9.8428609"/>
+  <node id="2074859415" lat="53.6295990" lon="9.8408211"/>
+  <node id="2074859444" lat="53.6311737" lon="9.8377526"/>
+  <node id="2074859447" lat="53.6304517" lon="9.8391544"/>
+  <node id="3463140176" lat="53.6296327" lon="9.8405017"/>
+  <node id="3463140177" lat="53.6310285" lon="9.8380320"/>
+  <node id="3463140178" lat="53.6313703" lon="9.8373739"/>
+  <node id="3680850709" lat="53.6289328" lon="9.8419061"/>
+  <node id="3680850710" lat="53.6289920" lon="9.8419923"/>
+  <node id="7596723031" lat="53.6308771" lon="9.8380700"/>
+  <node id="7596723032" lat="53.6306941" lon="9.8384145"/>
+  <node id="7596723033" lat="53.6302838" lon="9.8391968"/>
+  <node id="7596723034" lat="53.6300626" lon="9.8396401"/>
+  <node id="7596723035" lat="53.6296818" lon="9.8404033"/>
+  <node id="296208028" lat="53.6339965" lon="9.8323290"/>
+  <node id="296208131" lat="53.6341185" lon="9.8320869"/>
+  <node id="540239449" lat="53.6334620" lon="9.8332623"/>
+  <node id="2074862286" lat="53.6323411" lon="9.8355425"/>
+  <node id="2074862288" lat="53.6334957" lon="9.8333029"/>
+  <node id="2074862309" lat="53.6323146" lon="9.8354917"/>
+  <node id="3259586904" lat="53.6339634" lon="9.8322897"/>
+  <node id="3259586905" lat="53.6340879" lon="9.8320427"/>
+  <node id="3463140180" lat="53.6329126" lon="9.8343416"/>
+  <node id="3463140181" lat="53.6348540" lon="9.8306692"/>
+  <node id="540239455" lat="53.6251454" lon="9.8495400"/>
+  <node id="540239456" lat="53.6279204" lon="9.8439532"/>
+  <node id="2074859413" lat="53.6264320" lon="9.8469759"/>
+  <node id="2074859419" lat="53.6279544" lon="9.8440009"/>
+  <node id="2074859459" lat="53.6251739" lon="9.8495647"/>
+  <node id="2074859488" lat="53.6264617" lon="9.8470185"/>
+  <node id="3680850704" lat="53.6250661" lon="9.8496943"/>
+  <node id="3680850705" lat="53.6258762" lon="9.8481761"/>
+  <node id="3680850706" lat="53.6266840" lon="9.8465668"/>
+  <node id="3680850707" lat="53.6275830" lon="9.8447397"/>
+  <node id="3680850708" lat="53.6277844" lon="9.8443304"/>
+  <node id="80134762" lat="53.6550023" lon="9.7981584"/>
+  <node id="80134765" lat="53.6531692" lon="9.8006294"/>
+  <node id="2916049774" lat="53.6529761" lon="9.8010195"/>
+  <node id="2916049778" lat="53.6526997" lon="9.8014225"/>
+  <node id="2916079451" lat="53.6539692" lon="9.7996069"/>
+  <node id="2916079459" lat="53.6544139" lon="9.7990206"/>
+  <node id="2916145907" lat="53.6544704" lon="9.7990408"/>
+  <node id="2916145909" lat="53.6550364" lon="9.7982118"/>
+  <node id="2916145910" lat="53.6539943" lon="9.7996553"/>
+  <node id="2917540871" lat="53.6518920" lon="9.8027212"/>
+  <node id="2917540872" lat="53.6535481" lon="9.8002483"/>
+  <node id="3463259996" lat="53.6518866" lon="9.8025088"/>
+  <node id="3463259997" lat="53.6520009" lon="9.8023326"/>
+  <node id="3463260002" lat="53.6535509" lon="9.8001293"/>
+  <node id="3463260003" lat="53.6535709" lon="9.8001062"/>
+  <node id="3463260004" lat="53.6535780" lon="9.8002076"/>
+  <node id="3463260005" lat="53.6535957" lon="9.8001850"/>
+  <node id="3463260006" lat="53.6536031" lon="9.8001738"/>
+  <node id="3680749756" lat="53.6520053" lon="9.8024615"/>
+  <node id="3680749757" lat="53.6524387" lon="9.8017008"/>
+  <node id="3680749758" lat="53.6527692" lon="9.8012089"/>
+  <node id="3680749759" lat="53.6528931" lon="9.8012056"/>
+  <node id="3680749760" lat="53.6529682" lon="9.8010735"/>
+  <node id="3680749761" lat="53.6530981" lon="9.8008450"/>
+  <node id="3680749762" lat="53.6531827" lon="9.8007182"/>
+  <node id="3707303136" lat="53.6547238" lon="9.7985730"/>
+  <node id="3707303137" lat="53.6547453" lon="9.7986346"/>
+  <node id="10580155031" lat="53.6543305" lon="9.7992354"/>
+  <node id="10580155032" lat="53.6550804" lon="9.7981498"/>
+  <node id="10580155033" lat="53.6550450" lon="9.7980961"/>
+  <node id="54659492" lat="53.6151392" lon="9.8692360"/>
+  <node id="54659494" lat="53.6164054" lon="9.8666722"/>
+  <node id="294299750" lat="53.6158536" lon="9.8678247"/>
+  <node id="296205533" lat="53.6162966" lon="9.8669120"/>
+  <node id="751981290" lat="53.6169022" lon="9.8654943"/>
+  <node id="751981316" lat="53.6163340" lon="9.8665953"/>
+  <node id="751981324" lat="53.6162220" lon="9.8668186"/>
+  <node id="2074859441" lat="53.6169315" lon="9.8655618"/>
+  <node id="3463107185" lat="53.6160230" lon="9.8672062"/>
+  <node id="3463107186" lat="53.6160422" lon="9.8674361"/>
+  <node id="3463107187" lat="53.6160990" lon="9.8673190"/>
+  <node id="3707303134" lat="53.6157607" lon="9.8677207"/>
+  <node id="7575175389" lat="53.6159361" lon="9.8673766"/>
+  <node id="247762759" lat="53.6203119" lon="9.8589288"/>
+  <node id="247762760" lat="53.6204446" lon="9.8586819"/>
+  <node id="2074837824" lat="53.6183876" lon="9.8626123"/>
+  <node id="2074837926" lat="53.6211544" lon="9.8573071"/>
+  <node id="2074859402" lat="53.6211886" lon="9.8573462"/>
+  <node id="2074859408" lat="53.6184150" lon="9.8626637"/>
+  <node id="2074859410" lat="53.6204730" lon="9.8587329"/>
+  <node id="2074859455" lat="53.6203441" lon="9.8589743"/>
+  <node id="3680850699" lat="53.6203032" lon="9.8589454"/>
+  <node id="54659488" lat="53.6118398" lon="9.8754929"/>
+  <node id="54659489" lat="53.6141428" lon="9.8710142"/>
+  <node id="751981378" lat="53.6141047" lon="9.8709501"/>
+  <node id="751981379" lat="53.6118121" lon="9.8754492"/>
+  <node id="1356496524" lat="53.6134002" lon="9.8724417"/>
+  <node id="1356496866" lat="53.6133703" lon="9.8723827"/>
+  <node id="3463107180" lat="53.6147128" lon="9.8697512"/>
+  <node id="263026306" lat="53.4963456" lon="10.2274779"/>
+  <node id="263026310" lat="53.4967343" lon="10.2298492"/>
+  <node id="378739899" lat="53.4960809" lon="10.2250304"/>
+  <node id="378739910" lat="53.4960239" lon="10.2245117"/>
+  <node id="1241995976" lat="53.4961156" lon="10.2250222"/>
+  <node id="1241996078" lat="53.4963825" lon="10.2274399"/>
+  <node id="1241996086" lat="53.4960591" lon="10.2245023"/>
+  <node id="1241996108" lat="53.4965329" lon="10.2284798"/>
+  <node id="1241996121" lat="53.4967632" lon="10.2298174"/>
+  <node id="1241996155" lat="53.4965998" lon="10.2291818"/>
+  <node id="1241996295" lat="53.4961693" lon="10.2255455"/>
+  <node id="1241996329" lat="53.4966414" lon="10.2291550"/>
+  <node id="1241996373" lat="53.4964904" lon="10.2284984"/>
+  <node id="4035668689" lat="53.4961290" lon="10.2251887"/>
+  <node id="5110670807" lat="53.4960956" lon="10.2251992"/>
+  <node id="263026311" lat="53.4970585" lon="10.2313492"/>
+  <node id="263026312" lat="53.4974710" lon="10.2328748"/>
+  <node id="263026313" lat="53.4979863" lon="10.2344460"/>
+  <node id="263026976" lat="53.4985382" lon="10.2358508"/>
+  <node id="1241996003" lat="53.4969117" lon="10.2305566"/>
+  <node id="1241996012" lat="53.4972773" lon="10.2321995"/>
+  <node id="1241996024" lat="53.4980252" lon="10.2344189"/>
+  <node id="1241996037" lat="53.4985677" lon="10.2358141"/>
+  <node id="1241996041" lat="53.4977245" lon="10.2337081"/>
+  <node id="1241996094" lat="53.4968767" lon="10.2305850"/>
+  <node id="1241996105" lat="53.4977549" lon="10.2336573"/>
+  <node id="1241996129" lat="53.4982746" lon="10.2351133"/>
+  <node id="1241996145" lat="53.4975018" lon="10.2328350"/>
+  <node id="1241996291" lat="53.4989674" lon="10.2367133"/>
+  <node id="1241996342" lat="53.4982455" lon="10.2351460"/>
+  <node id="1241996350" lat="53.4973133" lon="10.2321694"/>
+  <node id="1241996405" lat="53.4970906" lon="10.2313214"/>
+  <node id="4035668690" lat="53.4980936" lon="10.2346094"/>
+  <node id="263026977" lat="53.4996779" lon="10.2382267"/>
+  <node id="1241995973" lat="53.4989446" lon="10.2367559"/>
+  <node id="1241995996" lat="53.4997060" lon="10.2381884"/>
+  <node id="1241996035" lat="53.5002275" lon="10.2391349"/>
+  <node id="1241996076" lat="53.5002522" lon="10.2390844"/>
+  <node id="1241996099" lat="53.4993802" lon="10.2376493"/>
+  <node id="1241996117" lat="53.4999806" lon="10.2387114"/>
+  <node id="1241996171" lat="53.4994052" lon="10.2376061"/>
+  <node id="1241996328" lat="53.5000029" lon="10.2386716"/>
+  <node id="263026978" lat="53.5004936" lon="10.2395329"/>
+  <node id="263026981" lat="53.5030437" lon="10.2426658"/>
+  <node id="293573788" lat="53.5009022" lon="10.2401360"/>
+  <node id="293573790" lat="53.5011923" lon="10.2405375"/>
+  <node id="1241995966" lat="53.5005073" lon="10.2394812"/>
+  <node id="1241995970" lat="53.5009309" lon="10.2400807"/>
+  <node id="1241996073" lat="53.5020718" lon="10.2414876"/>
+  <node id="1241996154" lat="53.5025172" lon="10.2419868"/>
+  <node id="1241996194" lat="53.5014619" lon="10.2408744"/>
+  <node id="1241996287" lat="53.5012191" lon="10.2404828"/>
+  <node id="1241996394" lat="53.5014418" lon="10.2407548"/>
+  <node id="1242013039" lat="53.5035797" lon="10.2432031"/>
+  <node id="1242013063" lat="53.5035567" lon="10.2432737"/>
+  <node id="1242013101" lat="53.5030594" lon="10.2425999"/>
+  <node id="1891882841" lat="53.5020432" lon="10.2415403"/>
+  <node id="1891882844" lat="53.5024943" lon="10.2420358"/>
+  <node id="4035552627" lat="53.5025661" lon="10.2421181"/>
+  <node id="4035668691" lat="53.5006610" lon="10.2396987"/>
+  <node id="4035668692" lat="53.5006903" lon="10.2397401"/>
+  <node id="263026982" lat="53.5044968" lon="10.2445334"/>
+  <node id="263027055" lat="53.5052389" lon="10.2456868"/>
+  <node id="263027056" lat="53.5062164" lon="10.2474764"/>
+  <node id="263027072" lat="53.5068369" lon="10.2487511"/>
+  <node id="1242013041" lat="53.5041128" lon="10.2438883"/>
+  <node id="1242013047" lat="53.5052583" lon="10.2456420"/>
+  <node id="1242013056" lat="53.5055633" lon="10.2461591"/>
+  <node id="1242013061" lat="53.5062476" lon="10.2474389"/>
+  <node id="1242013079" lat="53.5055454" lon="10.2462085"/>
+  <node id="1242013080" lat="53.5065722" lon="10.2481752"/>
+  <node id="1242013082" lat="53.5045279" lon="10.2444829"/>
+  <node id="1242013096" lat="53.5058170" lon="10.2466202"/>
+  <node id="1242013100" lat="53.5066064" lon="10.2481284"/>
+  <node id="1242013102" lat="53.5068652" lon="10.2486929"/>
+  <node id="1242013108" lat="53.5040807" lon="10.2439478"/>
+  <node id="1242013117" lat="53.5049047" lon="10.2450646"/>
+  <node id="1242013124" lat="53.5057901" lon="10.2466686"/>
+  <node id="1242013138" lat="53.5048746" lon="10.2451090"/>
+  <node id="1242013040" lat="53.5071593" lon="10.2494625"/>
+  <node id="1242013137" lat="53.5071221" lon="10.2495002"/>
+  <node id="263027074" lat="53.5074306" lon="10.2503444"/>
+  <node id="263027075" lat="53.5077103" lon="10.2511325"/>
+  <node id="263027076" lat="53.5080994" lon="10.2524140"/>
+  <node id="263027133" lat="53.5084223" lon="10.2536480"/>
+  <node id="1242013028" lat="53.5089547" lon="10.2558496"/>
+  <node id="1242013044" lat="53.5081743" lon="10.2523529"/>
+  <node id="1242013075" lat="53.5087590" lon="10.2544885"/>
+  <node id="1242013077" lat="53.5077724" lon="10.2511078"/>
+  <node id="1242013081" lat="53.5088069" lon="10.2551888"/>
+  <node id="1242013091" lat="53.5085284" lon="10.2535707"/>
+  <node id="1242013114" lat="53.5089543" lon="10.2553634"/>
+  <node id="1242013119" lat="53.5079790" lon="10.2517350"/>
+  <node id="1242013120" lat="53.5091331" lon="10.2563242"/>
+  <node id="1242013130" lat="53.5074917" lon="10.2503257"/>
+  <node id="4035552634" lat="53.5087681" lon="10.2550190"/>
+  <node id="4035668693" lat="53.5086862" lon="10.2546943"/>
+  <node id="4086114388" lat="53.5079056" lon="10.2517226"/>
+  <node id="263027151" lat="53.5094103" lon="10.2582038"/>
+  <node id="263027520" lat="53.5102854" lon="10.2620802"/>
+  <node id="1242013049" lat="53.5092536" lon="10.2570050"/>
+  <node id="1242020153" lat="53.5094648" lon="10.2581710"/>
+  <node id="1242020199" lat="53.5096504" lon="10.2591067"/>
+  <node id="1242020221" lat="53.5096006" lon="10.2591353"/>
+  <node id="1242020222" lat="53.5098614" lon="10.2603819"/>
+  <node id="1242020240" lat="53.5099072" lon="10.2603559"/>
+  <node id="1242020251" lat="53.5103218" lon="10.2620596"/>
+  <node id="4035668694" lat="53.5096855" lon="10.2592773"/>
+  <node id="4035668695" lat="53.5097826" lon="10.2597503"/>
+  <node id="4035668696" lat="53.5102521" lon="10.2617732"/>
+  <node id="1242020154" lat="53.5119891" lon="10.2668700"/>
+  <node id="1242020155" lat="53.5117172" lon="10.2663257"/>
+  <node id="1242020157" lat="53.5106962" lon="10.2633500"/>
+  <node id="1242020181" lat="53.5126213" lon="10.2682717"/>
+  <node id="1242020182" lat="53.5119571" lon="10.2669342"/>
+  <node id="1242020185" lat="53.5106647" lon="10.2633782"/>
+  <node id="1242020195" lat="53.5129829" lon="10.2689728"/>
+  <node id="1242020200" lat="53.5126472" lon="10.2682126"/>
+  <node id="1242020204" lat="53.5110396" lon="10.2644642"/>
+  <node id="1242020223" lat="53.5114734" lon="10.2657233"/>
+  <node id="1242020226" lat="53.5110076" lon="10.2645025"/>
+  <node id="1242020235" lat="53.5130140" lon="10.2689166"/>
+  <node id="1242020247" lat="53.5114413" lon="10.2657680"/>
+  <node id="1242020248" lat="53.5116914" lon="10.2663619"/>
+  <node id="4035668697" lat="53.5109783" lon="10.2642652"/>
+  <node id="4035668698" lat="53.5112154" lon="10.2649744"/>
+  <node id="4035668699" lat="53.5121227" lon="10.2671425"/>
+  <node id="263027523" lat="53.5133571" lon="10.2696377"/>
+  <node id="1242020167" lat="53.5133895" lon="10.2695879"/>
+  <node id="263027524" lat="53.5143127" lon="10.2711220"/>
+  <node id="263027525" lat="53.5157300" lon="10.2728826"/>
+  <node id="292550898" lat="53.5137926" lon="10.2703362"/>
+  <node id="292550899" lat="53.5136174" lon="10.2700853"/>
+  <node id="332407966" lat="53.5184809" lon="10.2755428"/>
+  <node id="1242020142" lat="53.5141197" lon="10.2708304"/>
+  <node id="1242020152" lat="53.5154044" lon="10.2725233"/>
+  <node id="1242020175" lat="53.5141274" lon="10.2707563"/>
+  <node id="1242020178" lat="53.5157565" lon="10.2728283"/>
+  <node id="1242020187" lat="53.5143497" lon="10.2710756"/>
+  <node id="1242020198" lat="53.5159552" lon="10.2731156"/>
+  <node id="1242020202" lat="53.5136441" lon="10.2700160"/>
+  <node id="1242020220" lat="53.5159765" lon="10.2730460"/>
+  <node id="1242020231" lat="53.5185116" lon="10.2754990"/>
+  <node id="1242020242" lat="53.5138102" lon="10.2702773"/>
+  <node id="1242020244" lat="53.5154436" lon="10.2724690"/>
+  <node id="4035552644" lat="53.5145956" lon="10.2714851"/>
+  <node id="4035668701" lat="53.5146219" lon="10.2714140"/>
+  <node id="4035668702" lat="53.5146477" lon="10.2714472"/>
+  <node id="4035668703" lat="53.5161024" lon="10.2731737"/>
+  <node id="263027527" lat="53.5194859" lon="10.2766541"/>
+  <node id="332407959" lat="53.5198586" lon="10.2771616"/>
+  <node id="1242020150" lat="53.5195213" lon="10.2765876"/>
+  <node id="1242020196" lat="53.5190642" lon="10.2761878"/>
+  <node id="1242020218" lat="53.5191049" lon="10.2761267"/>
+  <node id="263027779" lat="53.5201416" lon="10.2774838"/>
+  <node id="263027781" lat="53.5217024" lon="10.2798010"/>
+  <node id="263027988" lat="53.5226422" lon="10.2815325"/>
+  <node id="311474485" lat="53.5213076" lon="10.2791525"/>
+  <node id="1242020143" lat="53.5208309" lon="10.2781878"/>
+  <node id="1242020160" lat="53.5216032" lon="10.2795087"/>
+  <node id="1242020168" lat="53.5201886" lon="10.2773329"/>
+  <node id="1242020180" lat="53.5209298" lon="10.2785867"/>
+  <node id="1242020188" lat="53.5210596" lon="10.2785362"/>
+  <node id="1242020206" lat="53.5217758" lon="10.2798389"/>
+  <node id="1242020212" lat="53.5205353" lon="10.2777778"/>
+  <node id="1242020229" lat="53.5213681" lon="10.2790623"/>
+  <node id="1242020236" lat="53.5199917" lon="10.2771065"/>
+  <node id="1242020246" lat="53.5222115" lon="10.2806927"/>
+  <node id="3377293671" lat="53.5206387" lon="10.2781682"/>
+  <node id="3377293672" lat="53.5207151" lon="10.2780272"/>
+  <node id="3435390111" lat="53.5212641" lon="10.2790874"/>
+  <node id="3435390112" lat="53.5213222" lon="10.2789840"/>
+  <node id="3493274001" lat="53.5201437" lon="10.2772870"/>
+  <node id="4035552650" lat="53.5206728" lon="10.2782151"/>
+  <node id="4035668704" lat="53.5219880" lon="10.2803013"/>
+  <node id="4086137459" lat="53.5203989" lon="10.2778251"/>
+  <node id="263027989" lat="53.5232712" lon="10.2829455"/>
+  <node id="263027991" lat="53.5242497" lon="10.2855352"/>
+  <node id="263027992" lat="53.5244248" lon="10.2860850"/>
+  <node id="272750236" lat="53.5249211" lon="10.2878967"/>
+  <node id="310988024" lat="53.5250882" lon="10.2886017"/>
+  <node id="1242035510" lat="53.5238100" lon="10.2843312"/>
+  <node id="1242061209" lat="53.5240172" lon="10.2848986"/>
+  <node id="1892861659" lat="53.5235736" lon="10.2836663"/>
+  <node id="1892861668" lat="53.5246802" lon="10.2869752"/>
+  <node id="3493274002" lat="53.5248678" lon="10.2876942"/>
+  <node id="4035668708" lat="53.5248298" lon="10.2875487"/>
+  <node id="263028074" lat="53.5260597" lon="10.2925238"/>
+  <node id="1892861693" lat="53.5264428" lon="10.2940819"/>
+  <node id="4035668710" lat="53.5255670" lon="10.2905347"/>
+  <node id="4035668711" lat="53.5262989" lon="10.2934966"/>
+  <node id="4035668713" lat="53.5263377" lon="10.2936545"/>
+  <node id="263028076" lat="53.5270449" lon="10.2965684"/>
+  <node id="263028151" lat="53.5276839" lon="10.2991982"/>
+  <node id="271347998" lat="53.5273996" lon="10.2980391"/>
+  <node id="271347999" lat="53.5275327" lon="10.2985885"/>
+  <node id="1242061190" lat="53.5281382" lon="10.3012079"/>
+  <node id="3493274003" lat="53.5273849" lon="10.2979783"/>
+  <node id="4035668715" lat="53.5276276" lon="10.2989713"/>
+  <node id="4035668719" lat="53.5280775" lon="10.3009395"/>
+  <node id="263028152" lat="53.5284260" lon="10.3025552"/>
+  <node id="263028169" lat="53.5290018" lon="10.3058006"/>
+  <node id="263028253" lat="53.5292100" lon="10.3071381"/>
+  <node id="1242061158" lat="53.5286965" lon="10.3039459"/>
+  <node id="1892889949" lat="53.5293556" lon="10.3083573"/>
+  <node id="4035668721" lat="53.5284418" lon="10.3026365"/>
+  <node id="4035668724" lat="53.5292194" lon="10.3072166"/>
+  <node id="4035668725" lat="53.5294111" lon="10.3088106"/>
+  <node id="263028256" lat="53.5297449" lon="10.3124187"/>
+  <node id="263028257" lat="53.5298289" lon="10.3135717"/>
+  <node id="1242061204" lat="53.5299109" lon="10.3132392"/>
+  <node id="1242061223" lat="53.5300171" lon="10.3144837"/>
+  <node id="1242061243" lat="53.5299519" lon="10.3135827"/>
+  <node id="1242061258" lat="53.5297954" lon="10.3123811"/>
+  <node id="1260099179" lat="53.5298925" lon="10.3145492"/>
+  <node id="1892889966" lat="53.5294614" lon="10.3092168"/>
+  <node id="1892889971" lat="53.5295842" lon="10.3103733"/>
+  <node id="1892889975" lat="53.5296386" lon="10.3109569"/>
+  <node id="3435390113" lat="53.5296087" lon="10.3106358"/>
+  <node id="3435390114" lat="53.5296968" lon="10.3117129"/>
+  <node id="3435390115" lat="53.5297216" lon="10.3117136"/>
+  <node id="3435390116" lat="53.5297998" lon="10.3124191"/>
+  <node id="3464994870" lat="53.5295672" lon="10.3101730"/>
+  <node id="3495054956" lat="53.5295698" lon="10.3102108"/>
+  <node id="3495054957" lat="53.5297712" lon="10.3128106"/>
+  <node id="3495054958" lat="53.5298906" lon="10.3145022"/>
+  <node id="3495054961" lat="53.5299658" lon="10.3137358"/>
+  <node id="3999126242" lat="53.5298002" lon="10.3131679"/>
+  <node id="3999126243" lat="53.5298593" lon="10.3139858"/>
+  <node id="3999126244" lat="53.5298733" lon="10.3129544"/>
+  <node id="3999126248" lat="53.5299847" lon="10.3139439"/>
+  <node id="3999126249" lat="53.5300326" lon="10.3149630"/>
+  <node id="291991345" lat="53.5300458" lon="10.3177184"/>
+  <node id="291991349" lat="53.5300387" lon="10.3180635"/>
+  <node id="291991364" lat="53.5301395" lon="10.3193233"/>
+  <node id="291991379" lat="53.5300361" lon="10.3209103"/>
+  <node id="1242061170" lat="53.5300167" lon="10.3184407"/>
+  <node id="1242061193" lat="53.5300198" lon="10.3166852"/>
+  <node id="1242061197" lat="53.5300934" lon="10.3187310"/>
+  <node id="1242061241" lat="53.5301238" lon="10.3190812"/>
+  <node id="1242061257" lat="53.5300686" lon="10.3184282"/>
+  <node id="1242061259" lat="53.5300276" lon="10.3157261"/>
+  <node id="1242061264" lat="53.5300913" lon="10.3187054"/>
+  <node id="3435390119" lat="53.5300204" lon="10.3166509"/>
+  <node id="3435390120" lat="53.5300209" lon="10.3164486"/>
+  <node id="3495054963" lat="53.5300179" lon="10.3185821"/>
+  <node id="3495054964" lat="53.5300421" lon="10.3178975"/>
+  <node id="3495054965" lat="53.5300683" lon="10.3187784"/>
+  <node id="3495054966" lat="53.5300925" lon="10.3190618"/>
+  <node id="3557753126" lat="53.5301220" lon="10.3190600"/>
+  <node id="291991380" lat="53.5300270" lon="10.3230053"/>
+  <node id="1242061175" lat="53.5301362" lon="10.3225702"/>
+  <node id="1242061181" lat="53.5300657" lon="10.3224491"/>
+  <node id="1242061189" lat="53.5301530" lon="10.3222301"/>
+  <node id="1242061199" lat="53.5301000" lon="10.3221443"/>
+  <node id="1242061214" lat="53.5301158" lon="10.3230707"/>
+  <node id="1242061225" lat="53.5300573" lon="10.3230026"/>
+  <node id="1242061235" lat="53.5300860" lon="10.3230000"/>
+
+</osm>
