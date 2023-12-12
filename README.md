@@ -17,4 +17,4 @@ Beide Szenarien werden im Skript [Isochronen.ipynb](https://github.com/SophieHar
 Die Auswertung erfolgt über das Verschneiden der erstellten Isochronen mit den Daten zu den Einwohnerzahlen.
 
 ## Ausblick
-Eine weitere dankbare Methode für die Erreichbarkeitsanalyse ist die Erstellung von Rastern, die die durchschnittliche Fahrzeit zum nächstgelegenen Arzt beinhalten. Die Erstellung des Rasters werden beispielhaft im Skript [Rastererstellung.ipynb] festgehalten.
+Eine weitere dankbare Methode für die Erreichbarkeitsanalyse ist die Erstellung von Rastern, die die durchschnittliche Fahrzeit zum nächstgelegenen Arzt beinhalten. Die Erstellung des Rasters werden beispielhaft im Skript [Rastererstellung.ipynb](https://github.com/SophieHartstock/Masterarbeit-Code/blob/master/Rastererstellung.ipynb) festgehalten.
